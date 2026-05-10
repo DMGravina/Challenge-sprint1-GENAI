@@ -1,0 +1,200 @@
+2024-01-01,60,1.2,Normal,Operação estável
+2024-01-02,85,1.5,Normal,Desempenho ótimo
+2024-01-03,120,Falha,Sobreaquecimento detectado
+2024-01-04,70,1.8,Normal,Manutenção preventiva realizada
+2024-01-05,130,Falha,Sobreaquecimento crítico
+2024-01-06,55,0.8,Normal,Funcionamento suave
+2024-01-07,80,1.2,Normal,Consumo de energia estável
+2024-01-08,115,Falha,Sobreaquecimento moderado
+2024-01-09,60,1.5,Normal,Desempenho dentro dos padrões
+2024-01-10,85,1.8,Normal,Manutenção de rotina realizada
+2024-01-11,140,Falha,Sobreaquecimento grave
+2024-01-12,70,1.2,Normal,Operação normal
+2024-01-13,95,1.5,Normal,Desempenho bom
+2024-01-14,125,Falha,Sobreaquecimento detectado
+2024-01-15,80,3.8,Falha,Vibração anormal
+2024-01-16,60,1.2,Normal,Manutenção preventiva realizada
+2024-01-17,85,1.8,Normal,Desempenho ótimo
+2024-01-18,135,Falha,Sobreaquecimento crítico
+2024-01-19,55,0.8,Normal,Funcionamento suave
+2024-01-20,90,6.0,Falha,Vibração grave
+2024-01-01,60,0.8,Normal,Operação estável
+2024-01-02,80,1.2,Normal,Desempenho dentro dos parâmetros
+2024-01-03,55,0.5,Normal,Funcionamento suave
+2024-01-04,85,1.5,Normal,Condições de operação normais
+2024-01-05,120,0.6,Falha,Sobreaquecimento detectado
+2024-01-06,70,0.9,Normal,Manutenção preventiva realizada
+2024-01-07,65,1.1,Normal,Verificação de rotina
+2024-01-08,90,1.8,Normal,Limite de temperatura atingido
+2024-01-09,130,1.2,Falha,Sobreaquecimento crítico
+2024-01-10,60,0.4,Normal,Operação estável
+2024-01-11,75,1.3,Normal,Desempenho otimizado
+2024-01-12,58,0.7,Normal,Funcionamento eficiente
+2024-01-13,82,1.6,Normal,Condições de operação ideais
+2024-01-14,140,0.8,Falha,Sobreaquecimento severo
+2024-01-15,68,1.0,Normal,Manutenção corretiva realizada
+2024-01-16,80,1.4,Normal,Verificação de desempenho
+2024-01-17,95,1.7,Normal,Limite de temperatura próximo
+2024-01-18,125,3.8,Falha,Vibração anormal detectada
+2024-01-19,70,0.9,Normal,Operação dentro dos parâmetros
+2024-01-20,145,6.0,Falha,Vibração crítica e sobreaquecimento
+2024-01-01,60,1.2,Normal,Operação dentro dos parâmetros normais.
+2024-01-02,55,0.8,Normal,Verificação de rotina sem irregularidades.
+2024-01-03,120,Falha,Sobreaquecimento detectado, necessidade de resfriamento.
+2024-01-04,80,1.5,Normal,Desempenho estável e dentro dos padrões.
+2024-01-05,85,1.2,Normal,Manutenção preventiva realizada com sucesso.
+2024-01-06,130,Falha,Sobreaquecimento grave, necessário desligamento imediato.
+2024-01-07,70,0.9,Normal,Verificação de vibração e temperatura dentro dos limites.
+2024-01-08,60,1.1,Normal,Operação contínua sem interrupções.
+2024-01-09,140,Falha,Sobreaquecimento crítico, necessidade de reparo urgente.
+2024-01-10,75,1.4,Normal,Desempenho dentro dos parâmetros de normalidade.
+2024-01-11,90,1.7,Normal,Limpeza e lubrificação realizadas com êxito.
+2024-01-12,110,Falha,Sobreaquecimento detectado, ajustes necessários.
+2024-01-13,65,1.3,Normal,Verificação de rotina sem problemas detectados.
+2024-01-14,80,1.6,Normal,Manutenção de rotina realizada com sucesso.
+2024-01-15,115,Falha,Sobreaquecimento moderado, necessidade de monitoramento.
+2024-01-16,58,0.7,Normal,Operação estável e sem irregularidades.
+2024-01-17,85,1.5,Normal,Desempenho dentro dos padrões de normalidade.
+2024-01-18,125,Falha,Sobreaquecimento grave, necessidade de intervenção imediata.
+2024-01-19,72,1.2,Normal,Verificação de vibração e temperatura dentro dos limites.
+2024-01-20,95,3.8,Falha,Vibração excessiva, necessidade de alinhamento e reparo.
+2024-01-01,60,1.2,Normal,Operação dentro dos parâmetros normais
+2024-01-02,55,0.8,Normal,Manutenção preventiva realizada com sucesso
+2024-01-03,80,1.5,Normal,Verificação de rolamentos e lubrificação
+2024-01-04,85,1.2,Normal,Análise de vibração e temperatura dentro dos limites
+2024-01-05,120,1.8,Falha,Sobreaquecimento detectado, manutenção corretiva necessária
+2024-01-06,70,1.0,Normal,Substituição de componentes desgastados
+2024-01-07,65,1.1,Normal,Ajustes finos na alinhamento do motor
+2024-01-08,90,1.7,Normal,Verificação de isolamento e blindagem
+2024-01-09,75,1.4,Normal,Testes de desempenho após manutenção
+2024-01-10,130,1.9,Falha,Sobreaquecimento crítico, parada de emergência
+2024-01-11,60,0.9,Normal,Retorno à operação normal após reparos
+2024-01-12,80,1.6,Normal,Monitoramento de vibração e temperatura
+2024-01-13,85,1.3,Normal,Análise de desempenho e eficiência
+2024-01-14,70,1.2,Normal,Manutenção preventiva agendada
+2024-01-15,140,2.0,Falha,Sobreaquecimento grave, intervenção imediata necessária
+2024-01-16,55,0.7,Normal,Verificação de sistema de resfriamento
+2024-01-17,75,1.5,Normal,Ajustes na calibração do sistema de controle
+2024-01-18,4.0,3.8,Falha,Vibração excessiva, desalinhamento detectado
+2024-01-19,65,1.1,Normal,Substituição de rolamentos danificados
+2024-01-20,6.0,5.0,Falha,Vibração crítica, parada para manutenção
+2024-01-01,60,1.2,Normal,Operação dentro dos parâmetros normais.
+2024-01-02,70,1.5,Normal,Desempenho estável e dentro dos limites.
+2024-01-03,80,0.8,Normal,Funcionamento suave e eficiente.
+2024-01-04,85,1.8,Normal,Parâmetros dentro dos limites de segurança.
+2024-01-05,120,1.2,Falha,Sobreaquecimento detectado, necessidade de manutenção.
+2024-01-06,75,1.2,Normal,Desempenho normal e estável.
+2024-01-07,65,0.9,Normal,Operação dentro dos parâmetros de segurança.
+2024-01-08,90,1.5,Normal,Funcionamento dentro dos limites normais.
+2024-01-09,130,0.8,Falha,Sobreaquecimento grave, manutenção necessária.
+2024-01-10,80,1.2,Normal,Desempenho estável e eficiente.
+2024-01-11,85,1.8,Normal,Parâmetros dentro dos limites de segurança.
+2024-01-12,140,1.5,Falha,Sobreaquecimento crítico, intervenção imediata necessária.
+2024-01-13,70,0.9,Normal,Operação suave e dentro dos parâmetros normais.
+2024-01-14,60,1.2,Normal,Desempenho normal e estável.
+2024-01-15,145,1.2,Falha,Sobreaquecimento extremo, risco de danos irreversíveis.
+2024-01-16,75,1.5,Normal,Funcionamento dentro dos limites normais.
+2024-01-17,80,3.8,Falha,Vibração anormal, possível desalinhamento ou problema no rolamento.
+2024-01-18,65,0.8,Normal,Operação dentro dos parâmetros de segurança.
+2024-01-19,90,1.2,Normal,Desempenho estável e eficiente.
+2024-01-20,85,5.5,Falha,Vibração crítica, necessidade de intervenção imediata para evitar danos.
+2024-01-01,60,1.2,Normal,Operação dentro dos parâmetros normais.
+2024-01-02,55,0.5,Normal,Verificação de rotina, tudo ok.
+2024-01-03,85,1.5,Normal,Motor funcionando dentro dos limites de temperatura e vibração.
+2024-01-04,120,0.8,Falha,Sobreaquecimento detectado, necessidade de manutenção.
+2024-01-05,70,1.0,Normal,Verificação de manutenção preventiva, sem problemas.
+2024-01-06,80,1.2,Normal,Desempenho normal do motor.
+2024-01-07,90,1.5,Normal,Limpeza e verificação de componentes, tudo em ordem.
+2024-01-08,115,1.0,Falha,Sobreaquecimento leve, monitoramento necessário.
+2024-01-09,65,0.9,Normal,Operação estável e dentro dos parâmetros.
+2024-01-10,75,1.1,Normal,Motor em funcionamento normal.
+2024-01-11,140,1.2,Falha,Sobreaquecimento crítico, parada para manutenção.
+2024-01-12,60,1.0,Normal,Verificação pós-manutenção, motor funcionando bem.
+2024-01-13,85,1.4,Normal,Desempenho dentro dos limites aceitáveis.
+2024-01-14,55,0.6,Normal,Funcionamento normal do motor.
+2024-01-15,95,1.6,Normal,Limite de temperatura próximo ao máximo, monitoramento.
+2024-01-16,120,1.8,Falha,Sobreaquecimento detectado, necessidade de reparo.
+2024-01-17,70,1.1,Normal,Verificação de rotina, sem problemas detectados.
+2024-01-18,80,1.3,Normal,Motor em operação normal, dentro dos parâmetros.
+2024-01-19,110,3.8,Falha,Vibração anormal, possível desalinhamento ou problema nos rolamentos.
+2024-01-20,65,0.8,Normal,Operação dentro dos parâmetros normais, sem problemas.
+2024-01-01,60,1.2,Normal,Operação dentro dos parâmetros normais.
+2024-01-02,80,0.8,Normal,Motor funcionando corretamente.
+2024-01-03,120,1.5,Falha,Sobreaquecimento detectado.
+2024-01-04,70,1.1,Normal,Manutenção de rotina realizada.
+2024-01-05,85,0.9,Normal,Desempenho estável.
+2024-01-06,130,1.2,Falha,Sobreaquecimento crítico.
+2024-01-07,65,1.4,Normal,Verificação de vibração realizada.
+2024-01-08,90,1.6,Normal,Motor dentro dos parâmetros.
+2024-01-09,140,1.8,Falha,Sobreaquecimento grave.
+2024-01-10,75,0.7,Normal,Manutenção preventiva realizada.
+2024-01-11,60,1.3,Normal,Operação normal.
+2024-01-12,110,1.9,Falha,Sobreaquecimento inicial.
+2024-01-13,80,1.2,Normal,Motor funcionando bem.
+2024-01-14,145,1.1,Falha,Sobreaquecimento crítico.
+2024-01-15,70,0.9,Normal,Manutenção de rotina.
+2024-01-16,85,3.8,Falha,Vibração anormal detectada.
+2024-01-17,65,1.1,Normal,Desempenho estável.
+2024-01-18,90,7.0,Falha,Vibração crítica.
+2024-01-19,75,0.8,Normal,Motor dentro dos parâmetros.
+2024-01-20,80,1.5,Normal,Operação normal.
+2024-01-01,60,0.8,Normal,Operação dentro dos parâmetros normais.
+2024-01-02,80,1.2,Normal,Desempenho estável.
+2024-01-03,120,0.5,Falha,Sobreaquecimento detectado.
+2024-01-04,70,1.5,Normal,Condições de operação ideais.
+2024-01-05,85,0.9,Normal,Manutenção preventiva realizada.
+2024-01-06,130,1.1,Falha,Sobreaquecimento crítico.
+2024-01-07,65,0.7,Normal,Operação silenciosa.
+2024-01-08,75,1.8,Normal,Parâmetros dentro dos limites.
+2024-01-09,140,0.6,Falha,Alerta de sobreaquecimento.
+2024-01-10,90,1.2,Normal,Desempenho ótimo.
+2024-01-11,60,0.4,Normal,Condições de operação normais.
+2024-01-12,110,1.5,Falha,Início de sobreaquecimento.
+2024-01-13,80,1.6,Normal,Manutenção de rotina.
+2024-01-14,70,1.1,Normal,Operação estável.
+2024-01-15,145,0.8,Falha,Sobreaquecimento extremo.
+2024-01-16,85,1.4,Normal,Desempenho consistente.
+2024-01-17,75,0.9,Normal,Condições de operação ideais.
+2024-01-18,120,3.8,Falha,Falha por vibração excessiva.
+2024-01-19,65,1.7,Normal,Operação normal.
+2024-01-20,90,1.9,Normal,Parâmetros dentro dos limites.
+2024-01-01,60,1.2,Normal,Operação dentro dos parâmetros normais.
+2024-01-02,55,0.6,Normal,Manutenção preventiva realizada.
+2024-01-03,85,1.5,Normal,Verificação de rolamentos e lubrificação.
+2024-01-04,120,1.2,Falha,Sobreaquecimento detectado.
+2024-01-05,70,1.8,Normal,Análise de vibração realizada.
+2024-01-06,80,0.8,Normal,Verificação de conexões elétricas.
+2024-01-07,130,1.5,Falha,Sobreaquecimento crítico.
+2024-01-08,65,1.2,Normal,Manutenção de rotina realizada.
+2024-01-09,60,0.9,Normal,Verificação de alinhamento.
+2024-01-10,85,1.6,Normal,Análise de desempenho realizada.
+2024-01-11,140,1.8,Falha,Sobreaquecimento grave.
+2024-01-12,75,1.4,Normal,Manutenção de lubrificação realizada.
+2024-01-13,55,0.7,Normal,Verificação de funcionamento.
+2024-01-14,125,1.2,Falha,Sobreaquecimento detectado.
+2024-01-15,80,1.5,Normal,Análise de eficiência realizada.
+2024-01-16,70,1.1,Normal,Verificação de segurança.
+2024-01-17,135,1.5,Falha,Sobreaquecimento crítico.
+2024-01-18,65,0.9,Normal,Manutenção preventiva realizada.
+2024-01-19,85,1.7,Normal,Verificação de rolamentos.
+2024-01-20,3.8,0.5,Falha,Vibração anormal detectada.
+2024-01-01,60,0.8,Normal,Operação dentro dos parâmetros normais.
+2024-01-02,70,1.2,Normal,Desempenho estável e dentro dos limites.
+2024-01-03,80,1.5,Normal,Funcionamento sem anomalias.
+2024-01-04,55,0.5,Normal,Condições de operação dentro dos padrões.
+2024-01-05,120,0.6,Falha,Sobreaquecimento detectado, necessidade de verificação.
+2024-01-06,85,1.1,Normal,Operação dentro dos parâmetros de segurança.
+2024-01-07,75,1.4,Normal,Desempenho adequado e estável.
+2024-01-08,65,0.9,Normal,Condições de operação normais.
+2024-01-09,130,0.7,Falha,Sobreaquecimento crítico, manutenção urgente necessária.
+2024-01-10,90,1.7,Normal,Limite máximo de temperatura atingido, monitoramento recomendado.
+2024-01-11,70,1.3,Normal,Funcionamento dentro dos parâmetros esperados.
+2024-01-12,60,0.8,Normal,Condições de operação dentro dos padrões estabelecidos.
+2024-01-13,140,0.5,Falha,Sobreaquecimento grave, necessidade de intervenção imediata.
+2024-01-14,80,1.5,Normal,Desempenho estável e dentro dos limites de segurança.
+2024-01-15,85,1.2,Normal,Operação normal, sem anomalias detectadas.
+2024-01-16,95,1.8,Normal,Limite máximo de vibração atingido, monitoramento necessário.
+2024-01-17,75,1.1,Normal,Condições de operação dentro dos parâmetros normais.
+2024-01-18,4,0,Normal,Condições de operação dentro dos padrões estabelecidos.
+2024-01-19,110,0.9,Falha,Sobreaquecimento detectado, necessidade de manutenção preventiva.
+2024-01-20,90,3.8,Falha,Vibração excessiva, indicação de desalinhamento ou problema nos rolamentos.
